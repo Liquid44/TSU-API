@@ -3,6 +3,7 @@ please note this is an unofficial API, trial-error created.
 
 This is still a work in-progress project so far there is 20+ TSU functions you can use
 
+<<<<<<< Updated upstream
 V0.02 will include remote user API functions
 
 Quick Example Usage-:
