@@ -1,4 +1,4 @@
-#DEPRECATED DUE TO TSU SHUTDOWN!
+#NO LONGER WORKING DUE TO TSU SHUTDOWN!
 
 Welcome to TSU-API
 please note this is an unofficial API, trial-error created.
